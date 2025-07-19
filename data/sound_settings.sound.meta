@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>19df2dda9621958c0fe77e219f0eae53d67b820a</guid>
+	<type>sound_settings</type>
+	<hash>d3e5e14f</hash>
+	<runtimes>
+		<runtime id="19df2dda9621958c0fe77e219f0eae53d67b820a" name="sound_settings.sound" link="0"/>
+	</runtimes>
+</asset>

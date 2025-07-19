@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>9a0e712ed4eede41ac7ed7e52291b10569ff00de</guid>
+	<type>sound</type>
+	<hash>c42ba882</hash>
+	<runtimes>
+		<runtime id="9a0e712ed4eede41ac7ed7e52291b10569ff00de" name="enemy.ogg" link="0" type="7"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>a25632f8f4ff9659997a848c2ebeef27d0974164</guid>
+	<type>property</type>
+	<hash>bf0cd0ae</hash>
+	<runtimes>
+		<runtime id="a25632f8f4ff9659997a848c2ebeef27d0974164" name="Enemy" link="0" type="4"/>
+	</runtimes>
+</asset>

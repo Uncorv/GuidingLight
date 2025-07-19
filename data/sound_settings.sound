@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="2.19.0.3">
+	<sound>
+		<enabled>1</enabled>
+		<sound_manager_load_samples>0</sound_manager_load_samples>
+		<sound_manager_sample_static_memory>64</sound_manager_sample_static_memory>
+		<sound_manager_sample_stream_memory>16</sound_manager_sample_stream_memory>
+		<sound_reverb>2</sound_reverb>
+		<sound_occlusion>1</sound_occlusion>
+		<al_sound_skip_errors>0</al_sound_skip_errors>
+		<scale>1</scale>
+		<volume>1</volume>
+		<doppler>1</doppler>
+		<velocity>343.299988</velocity>
+		<adaptation>1</adaptation>
+		<attenuation>3</attenuation>
+		<hrtf>0</hrtf>
+		<source source="0" limit="2"/>
+		<source source="1" limit="4"/>
+		<source source="2" limit="4"/>
+		<source source="4" volume="0.4"/>
+	</sound>
+</settings>

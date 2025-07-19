@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="49e8b739fcae33322e2cc737409e9edefcf597f8" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<texture name="albedo">guid://dbe74aef93090b78195f0a413ca5d1284e68f0da</texture>
+	<texture name="emission">guid://dbe74aef93090b78195f0a413ca5d1284e68f0da</texture>
+	<parameter name="emission_scale" expression="0">0.000169999999</parameter>
+</material>

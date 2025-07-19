@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>49e8b739fcae33322e2cc737409e9edefcf597f8</guid>
+	<type>material</type>
+	<hash>ed57cc01</hash>
+	<runtimes>
+		<runtime id="49e8b739fcae33322e2cc737409e9edefcf597f8" name="mesh_path_disable" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

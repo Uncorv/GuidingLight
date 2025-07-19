@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="TopDownController" manual="1" parent_name="node_base">
+	<parameter name="move_force" type="float" title="Movement speed">100</parameter>
+	<parameter name="max_speed" type="float">10</parameter>
+</property>

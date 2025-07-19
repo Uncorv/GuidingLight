@@ -1,0 +1,12 @@
+/data/.runtimes
+.vscode
+.thumbnails
+*.gpu_cache
+/tmp
+/bin
+/utils
+/include
+/lib
+/data/core.ung
+/data/editor2.ung
+/data/scripts.ung

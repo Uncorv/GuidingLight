@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="be24882da32ce0c893839d7adbf0c0af7e2fba0c" base_material="ee4cbd68892b61a53e7ded930b825d0f53ac250e">
+	<options transparent="1"/>
+	<state name="emission">1</state>
+	<texture name="diffuse">guid://9fcc6fc5a84ee473583a1eac7cb08cf19411939f</texture>
+	<texture name="emission">guid://9fcc6fc5a84ee473583a1eac7cb08cf19411939f</texture>
+	<parameter name="normal_scale" expression="0">0.868359983</parameter>
+	<parameter name="emission_color" expression="0">0.117647067 0.258823544 0.247058839 1</parameter>
+	<parameter name="emission_scale" expression="0">0.0831200033</parameter>
+	<parameter name="emission_visibility_distance" expression="0">577</parameter>
+	<parameter name="emission_visibility_power" expression="0">4</parameter>
+	<parameter name="billboard_scale" expression="0">2.21708012</parameter>
+</material>

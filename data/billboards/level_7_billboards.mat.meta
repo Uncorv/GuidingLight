@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>be24882da32ce0c893839d7adbf0c0af7e2fba0c</guid>
+	<type>material</type>
+	<hash>0ae5eaae</hash>
+	<runtimes>
+		<runtime id="be24882da32ce0c893839d7adbf0c0af7e2fba0c" name="level_7_billboards" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>
