@@ -4,7 +4,12 @@
 cmake_minimum_required(VERSION 3.19)
 include(${CMAKE_CURRENT_LIST_DIR}/cmake/UnigineCMakeVariables.cmake)
 
-project(sibgamejam2025 LANGUAGES CXX)
+set(target "TheGuidingThread_linux")
+if (WIN32)
+	set(target "TheGuidingThread_windows")
+endif()
+
+project(${target} LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
@@ -30,7 +35,6 @@ find_package(Engine REQUIRED MODULE QUIET)
 ##==============================================================================
 ## Target.
 ##==============================================================================
-set(target "sibgamejam2025")
 
 if (WIN32)
 	set(CMAKE_EXE_LINKER_FLAGS_RELEASE "${CMAKE_EXE_LINKER_FLAGS} /SUBSYSTEM:WINDOWS /ENTRY:wmainCRTStartup")

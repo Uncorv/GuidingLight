@@ -18,7 +18,7 @@ int AppSystemLogic::init()
 {
 	// initialization for c++ component system
 	ComponentSystem::get()->initialize();
-	World::loadWorld("data/sibgamejam2025.world", true);
+	World::loadWorld("data/TheGuidingThread.world", true);
 
 	// Write here code to be called on engine initialization.
 	return 1;
