@@ -2,9 +2,9 @@
 <asset version="2.19.0.3">
 	<guid>0000000d000000ae000000da0000000e00000eca</guid>
 	<type>world</type>
-	<hash>b84b4ddd</hash>
+	<hash>8e769d97</hash>
 	<runtimes>
-		<runtime id="0000000d000000ae000000da0000000e00000eca" name="sibgamejam2025.world" link="0"/>
+		<runtime id="0000000d000000ae000000da0000000e00000eca" name="TheGuidingThread.world" link="0"/>
 	</runtimes>
 	<parameters>
 		<parameter type="string" name="physics_settings_path"/>

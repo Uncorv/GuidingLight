@@ -10,7 +10,7 @@
 	<console_wrapping>0</console_wrapping>
 	<materials_reload_event>1</materials_reload_event>
 	<microprofile_dump_frames>500</microprofile_dump_frames>
-	<microprofile_enabled>1</microprofile_enabled>
+	<microprofile_enabled>0</microprofile_enabled>
 	<microprofile_webserver_frames>200</microprofile_webserver_frames>
 	<physics_show_collision_surfaces>0</physics_show_collision_surfaces>
 	<physics_show_contacts>0</physics_show_contacts>
